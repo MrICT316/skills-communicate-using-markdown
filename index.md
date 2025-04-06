@@ -5,5 +5,7 @@
 # <H4> Header 4
 # <H5> Header 5
 # <H6> Header 6
-''' Python '''
-print('Hello Fool!')
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
