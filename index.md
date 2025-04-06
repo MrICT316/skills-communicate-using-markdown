@@ -5,3 +5,5 @@
 # <H4> Header 4
 # <H5> Header 5
 # <H6> Header 6
+''' Python '''
+prin('Hello Fool!')
